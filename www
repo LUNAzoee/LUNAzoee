@@ -42,6 +42,64 @@ jquery.min.js"
     </div>
 </body>
 </html>
-        
+*{
+    margin. 0px;
+    padding: 0px;
+}   
  
+body{
+    blackground: #fcfcfc;
+}    
+
+.contenedor{
+    matgin: auto;
+    width: 900px;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.titulo{
+    margin-bottom: 20px;
+}
     
+.opciones p{
+    blackground: black;
+    display: initial;
+    padding: 12px;
+    color: #ffffff;
+    border-radius: 2px;
+    front-weight: bold;
+}
+
+p.p1{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    wigth: 100px;
+}   
+
+p.p1:hover{
+    blackground: gray;
+    cursor: pointer;
+}   
+
+p.p2{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    width: 100px;
+}
+p.p2:hover{
+    blackground: gray;
+    cursor: pointer;
+} 
+#si{
+    blackground: #515050;
+    left: 420px;
+    position: absolute;
+    top: 122px;
+    width: 550px;
+    color: #fffff;
+    padding: 50px;
+    display: none;
+}
