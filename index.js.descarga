@@ -1,6 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn');
 
-yesBtn.addEventListener('click',function(){
+yesBtn.addEventListener('click',function() {
     alert('sabia que ibas a querer ser mi monin')
 });
 
