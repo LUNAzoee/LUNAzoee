@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('sabia que ibas a querer ser mi monin')
+    alert('sabia que ibas a querer volver')
 });
 
 const noBtn = document.querySelector('#noBtn');
